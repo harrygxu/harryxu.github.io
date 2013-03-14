@@ -1,0 +1,66 @@
+*----------------------------------------------------------------------*
+
+            SoCal Programming Languages and Systems Workshop
+                              Spring 2012
+                         Call for Participation
+
+                          http://socalpls.org/
+
+*----------------------------------------------------------------------*
+
+
+The SoCal Programming Languages and Systems Workshop will meet at
+UC Irvine on April 21st, 2012.  SoCal is an informal gathering of
+programming languages and systems researchers in the southern California
+region.
+
+The primary goals of this workshop include
+
+  * Providing a friendly environment for students (and other researchers)
+    to present their work.
+
+  * Strengthening ties between local institutions.
+
+  * Learning about cool stuff happening in PL and systems!
+
+This SoCal meeting will consist of contributed talks.
+
+REGISTRATION:
+
+Due to a generous gift from Mozilla, we are able to lower the fee down
+to a $5 registration fee that will be collected at the workshop to cover the
+costs of food and incidentals. We can only accept cash or checks; please
+make checks payable to Stefan Brunthaler.
+
+*** Please notify Stefan Brunthaler  (s.brunthaler@uci.edu) in advance ***
+*** that you plan to attend, so that we have enough food ordered.      ***
+
+PROGRAM:  http://www.socalpls.org/program.html
+
+IMPORTANT DATE:
+
+April 21st      SoCal workshop (Breakfast starts at 9:00 AM)
+
+LOCATION:
+
+Donald Bren Hall DBH 6011, UC Irvine, Irvine, CA 92612
+(http://www.socalpls.org/local.html)
+
+PARKING and DIRECTIONS:
+
+Unfortunately, parking is not free at UC Irvine. Parking from all UC campuses
+is, however, reciprocal, so please bring your parking permit!
+There is a parking ticket machine on the parking lot indicated in the local
+arrangements section.
+
+LOCAL ORGANIZER:
+Stefan Brunthaler (UCI)
+
+STEERING COMMITTEE:
+Ranjit Jhala (UCSD)
+Robert Keller (HMC)
+Jeff Vaughan (UCLA)
+
+WEBSITE:
+  http://socalpls.org/
+

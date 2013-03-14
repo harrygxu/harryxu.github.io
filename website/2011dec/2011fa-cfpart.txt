@@ -1,0 +1,65 @@
+*----------------------------------------------------------------------*
+
+            SoCal Programing Languages and Systems Workshop
+                              Fall 2011
+                         Call for Participation
+
+                          http://socalpls.org/
+
+*----------------------------------------------------------------------* 
+
+
+The SoCal Programing Languages and Systems Workshop will meet at 
+UC San Diego on December 3rd, 2011.  SoCal is an informal gathering of
+programming languages and systems researchers in the southern California
+region.
+
+The primary goals of this workshop include
+  
+  * Providing a friendly environment for students (and other researchers)
+    to present their work 
+  
+  * Strengthening ties between local institutions
+  
+  * Learning about cool stuff happening in PL and systems!
+
+This SoCal meeting will consist of contributed talks and posters.
+
+REGISTRATION:
+
+A $25 registration fee will be collected at the workshop to cover the
+costs of food and incidentals. We can only accept cash or checks; please
+make checks payable to the Regents of the University of California.
+
+*** Please notify Ranjit Jhala (jhala+socal@cs.ucsd.edu) in advance ***
+*** that you plan to attend, so that we have enough food ordered.   ***
+
+PROGRAM:  http://www.socalpls.org/program.html
+
+IMPORTANT DATE:
+
+Dec 3rd      SoCal workshop (Breakfast starts at 9:00)
+
+LOCATION: 
+
+CSE 1202, UC San Diego, La Jolla, CA 92103
+  
+PARKING and DIRECTIONS:
+  
+Parking is free on the weekends, so park anywhere unless it explicitly says it
+is reserved. The nearest location is P502 just off Voigt Drive. For
+details, see:
+
+    http://www.cs.ucsd.edu/node/11
+
+LOCAL ORGANIZER:
+
+Ranjit Jhala (UC San Diego)
+
+STEERING COMMITTEE:
+
+Kim Bruce     (Pomona College)
+Ranjit Jhala  (UC San Diego)
+Robert Keller (Harvey Mudd College)
+Jeff Vaughan  (UC Los Angeles)
+

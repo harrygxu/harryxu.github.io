@@ -1,0 +1,48 @@
+*-------------------------------------------------------------------------*
+|                                                                         |
+|             SoCal Programing Languages and Systems Workshop             |
+|                          Call for Presentations                         |
+|                                                                         |
+|                           http://socalpls.org/                          |
+|                                                                         |
+*-------------------------------------------------------------------------* 
+
+
+The SoCal Programing Languages and Systems Workshop will meet at UCSD on 
+December 3rd, 2011.  SoCal is an informal gathering of programming languages 
+and systems researchers in the southern California region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers)
+    to present their work 
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL and systems!
+
+
+SUBMISSION GUIDELINES:
+
+Both original research and work that has been published in other venues
+is welcome.  Authors should submit abstracts of at most one page 
+(~300 words) to Ranjit Jhala (jhala@cs.ucsd.edu) by **November 8**, 2011.
+Selected abstracts will be presented as a talk or a poster.
+
+IMPORTANT DATES (updated):
+
+November 8      Abstract deadline
+November 12     Notification of acceptance
+November 28     Registration deadline
+December 3      SoCal workshop
+
+LOCAL ORGANIZER:
+Ranjit Jhala    (UCSD)
+
+WEB ORGANIZER:
+Jeff Vaughan    (UCLA)
+
+STEERING COMMITTEE:
+Kim Bruce (Pomona College)
+Jens Palsberg (UCLA)
+Jeff Vaughan (UCLA)
+
+WEBSITE:
+  http://www.socalpls.org/

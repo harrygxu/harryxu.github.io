@@ -1,0 +1,46 @@
+*-------------------------------------------------------------------------*
+|                                                                         |
+|             SoCal Programming Languages and Systems Workshop            |
+|                          Call for Presentations                         |
+|                                                                         |
+|                           http://socalpls.org/                          |
+|                                                                         |
+*-------------------------------------------------------------------------*
+
+
+The SoCal Programming Languages and Systems Workshop will meet at UCI on
+April 21st, 2012.  SoCal is an informal gathering of programming languages
+and systems researchers in the southern California region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers)
+    to present their work
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL and systems!
+
+
+SUBMISSION GUIDELINES:
+
+Both original research and work that has been published in other venues
+is welcome.  Authors should submit abstracts of at most one page
+(~300 words) to Stefan Brunthaler (s.brunthaler@uci.edu) by
+**April 2nd**, 2012.
+Selected abstracts will be presented as a talk or a poster.
+
+IMPORTANT DATES (updated):
+
+April 2nd     Abstract deadline
+April 7th     Notification of acceptance
+April 14      Registration deadline
+April 21st    SoCal workshop
+
+LOCAL ORGANIZER:
+Stefan Brunthaler (UCI)
+
+STEERING COMMITTEE:
+Ranjit Jhala (UCSD)
+Robert Keller (HMC)
+Jeff Vaughan (UCLA)
+
+WEBSITE:
+  http://www.socalpls.org/

@@ -1,0 +1,17 @@
+Generate an ssh keypair using 
+
+  ssh-keygen
+
+Send the public key file (named <something>.pub) to jeff
+
+Add to your .ssh/config file:
+
+  Host mingus-svn
+      Hostname mingus.cs.ucla.edu
+      IdentityFile /home/<your uid>/.ssh/<your private key file>
+      Username jeff
+
+Run
+
+  svn checkout svn+ssh://mingus-svn/socal
+

@@ -1,0 +1,22 @@
+#!/bin/bash
+
+prg=`basename "$0"`
+if [ `uname` = "Linux" ];
+then
+  dir=`dirname \`readlink -f "$0"\``/../website
+else
+  dir=`dirname "$0"`/../website
+fi
+
+cd $dir
+#find . -type f ! -regex ".*\.svn.*" -exec curl --user \
+#  ftp_shared_login:ionboto9mb\&u --ftp-create-dirs --upload-file "{}" \
+#  "ftp://ftp.socalpls.org/{}" \;
+
+
+find . -type f ! -regex ".*\.svn.*" -print0 | while read -d $'\0' file
+do
+  echo "$file"
+  curl --user ftp_shared_login:ionboto9mb\&u --ftp-create-dirs \
+       --upload-file "$file" "ftp://ftp.socalpls.org/$file"
+done

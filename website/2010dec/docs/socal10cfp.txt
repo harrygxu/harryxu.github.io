@@ -1,0 +1,45 @@
+*---------------------------------------------------------------------------*
+|                                                                           |
+|              SoCal Programing Languages and Systems Workshop              |
+|                           Call for Presentations                          |
+|                                                                           |
+|                            http://socalpls.org/                           |
+|                                                                           |
+*---------------------------------------------------------------------------* 
+
+
+The SoCal Programing Languages and Systems Workshop will meet at UCLA on
+December 4, 2010.  SoCal is an informal gathering of programming languages and
+systems researchers in the southern California region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers) to
+    present their work 
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL!
+
+This SoCal meeting will consist of contributed talks and posters, as well as a
+keynote talk by Chandra Krintz (UC Santa Barbara).
+
+SUBMISSION GUIDELINES:
+
+Authors should submit abstracts of at most one page in length.  All abstracts
+must be in pdf or plain text format.  Send abstracts to jeff@cs.ucla.edu by
+November 3, 2010.  Both original research and work that has been published in
+other venues is welcome.  Selected abstracts will be presented as a talk or a
+poster.
+
+IMPORTANT DATES:
+
+November 3      Abstract deadline
+November 12     Notification of acceptance
+TBA             Registration deadline
+December 4      SoCal workshop
+
+PROGRAM COMMITTEE:
+Kim Bruce (Pomona College)
+Sorin Lerner (UCSD)
+Jeff Vaughan (UCLA), Chair
+
+WEBSITE:
+  http://www.socalpls.org/

@@ -1,0 +1,56 @@
+*-------------------------------------------------------------------------*
+|                                                                         |
+|             SoCal Programing Languages and Systems Workshop             |
+|                          Call for Participation                         |
+|                                                                         |
+|                           http://socalpls.org/                          |
+|                                                                         |
+*-------------------------------------------------------------------------* 
+
+
+The SoCal Programing Languages and Systems Workshop will meet at UCLA on
+December 4, 2010.  SoCal is an informal gathering of programming languages
+and systems researchers in the southern California region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers)
+    to present their work 
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL!
+
+This SoCal meeting will consist of eight contributed talks, eight
+contributed posters, and a keynote talk by Chandra Krintz (UC Santa
+Barbara).
+
+REGISTRATION:  Please register for SoCal by November 28 at
+
+             http://tinyurl.com/socalpls10reg .  
+
+All attendees will be required to pay a $40 registration fee at the 
+workshop.  Payments can be made by cash or by check payable to UC Regents.
+
+PROGRAM:  http://www.cs.ucla.edu/~jeff/socal_program.html 
+
+IMPORTANT DATES:
+
+November 28     Registration deadline
+December 4      SoCal workshop (Breakfast starts at 9:30)
+
+LOGISTICS:
+  
+Location: Boelter Hall, Room 2760, UCLA.
+
+Directions: http://www.cs.ucla.edu/csd/visitor/directions.html
+
+Visitor parking is available in parking structure 9.  There are attendants
+at a parking kiosk outside of Boelter who can give directions.  UC faculty
+members can get a free parking pass by showing attendants a faculty ID and
+home-university parking pass.  
+
+PROGRAM COMMITTEE:
+Kim Bruce (Pomona College)
+Sorin Lerner (UCSD)
+Jeff Vaughan (UCLA), Chair
+
+WEBSITE:
+  http://www.socalpls.org/

@@ -1,0 +1,52 @@
+*-------------------------------------------------------------------------*
+|                                                                         |
+|             SoCal Programing Languages and Systems Workshop             |
+|                             ** Extension **                             |
+|                          Call for Presentations                         |
+|                                                                         |
+|                           http://socalpls.org/                          |
+|                                                                         |
+*-------------------------------------------------------------------------* 
+
+
+The SoCal Programing Languages and Systems Workshop will meet at Harvey
+Mudd College on April 16, 2011.  SoCal is an informal gathering of
+programming languages and systems researchers in the southern California
+region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers)
+    to present their work 
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL and systems!
+
+
+SUBMISSION GUIDELINES:
+
+Both original research and work that has been published in other venues
+is welcome.  Authors should submit abstracts of at most one page 
+(~300 words) using the form at
+  http://tinyurl.com/socal11spr-abs
+by **March 25**, 2011.  Selected abstracts will be presented as a talk or a
+poster.
+
+IMPORTANT DATES (updated):
+
+March 25        Abstract deadline
+March 29        Notification of acceptance
+TBA             Registration deadline
+April 16        SoCal workshop
+
+LOCAL ORGANIZER:
+Robert Keller (Harvey Mudd College)
+
+WEB ORGANIZER:
+Jeff Vaughan (UCLA)
+
+STEERING COMMITTEE:
+Kim Bruce (Pomona College)
+Jens Palsberg (UCLA)
+Jeff Vaughan (UCLA)
+
+WEBSITE:
+  http://www.socalpls.org/
