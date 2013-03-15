@@ -8,9 +8,10 @@
 *-------------------------------------------------------------------------*
 
 
-The SoCal Programming Languages and Systems Workshop will meet at UCI on
-April 21st, 2012.  SoCal is an informal gathering of programming languages
-and systems researchers in the southern California region.
+The SoCal Programming Languages and Systems Workshop will meet at UC
+Santa Barbara on Saturday, May 4, 2013.  SoCal is an informal
+gathering of programming languages and systems researchers in the
+southern California region.
 
 The primary goals of this workshop include
   * Providing a friendly environment for students (and other researchers)
@@ -23,24 +24,37 @@ SUBMISSION GUIDELINES:
 
 Both original research and work that has been published in other venues
 is welcome.  Authors should submit abstracts of at most one page
-(~300 words) to Stefan Brunthaler (s.brunthaler@uci.edu) by
-**April 2nd**, 2012.
+(~300 words) to socalplsucsb@gmail.com by
+*** Friday April 19 ***, 2013.
 Selected abstracts will be presented as a talk or a poster.
 
-IMPORTANT DATES (updated):
+IMPORTANT DATES:
 
-April 2nd     Abstract deadline
-April 7th     Notification of acceptance
-April 14      Registration deadline
-April 21st    SoCal workshop
+April 19    Abstract deadline
+April 24    Notification of acceptance
+April 26    Registration deadline
+  May  4    SoCal workshop
 
 LOCAL ORGANIZER:
-Stefan Brunthaler (UCI)
+
+Ben Hardekopf (UC Santa Barbara)
+
 
 STEERING COMMITTEE:
-Ranjit Jhala (UCSD)
-Robert Keller (HMC)
-Jeff Vaughan (UCLA)
+
+Stefan Brunthaler (UC Irvine)
+Robert Keller (Harvey Mudd College)
+Ranjit Jhala (UC San Diego)
+Iulian Neamtiu (UC Riverside)
+
+
+PROGRAM COMMITTEE:
+
+Ben Hardekopf (UC Santa Barbara)
+Ben Wiedermann (Harvey Mudd College)
+Stefan Brunthaler (UC Irvine)
+Iulian Neamtiu (UC Riverside)
 
 WEBSITE:
+
   http://www.socalpls.org/
