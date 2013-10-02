@@ -8,10 +8,9 @@
 *-------------------------------------------------------------------------*
 
 
-The SoCal Programming Languages and Systems Workshop will meet at UC
-Santa Barbara on Saturday, May 4, 2013.  SoCal is an informal
-gathering of programming languages and systems researchers in the
-southern California region.
+The SoCal Programming Languages and Systems Workshop will meet at UCLA on
+Saturday, November 23, 2013.  SoCal is an informal gathering of programming
+languages and systems researchers in the Southern California region.
 
 The primary goals of this workshop include
   * Providing a friendly environment for students (and other researchers)
@@ -24,36 +23,28 @@ SUBMISSION GUIDELINES:
 
 Both original research and work that has been published in other venues
 is welcome.  Authors should submit abstracts of at most one page
-(~300 words) to socalplsucsb@googlegroups.com by
-*** Wednesday April 17 ***, 2013.
+(~300 words) to todd@cs.ucla.edu by
+*** Wednesday November 6 ***, 2013.
 Selected abstracts will be presented as a talk or a poster.
 
 IMPORTANT DATES:
 
-April 17    Abstract deadline
-April 24    Notification of acceptance
-April 26    Registration deadline
-  May  4    SoCal workshop
+November 6     Abstract deadline
+November 13    Notification of acceptance
+November 23    SoCal workshop
 
-LOCAL ORGANIZER:
+LOCAL ORGANIZERS:
 
-Ben Hardekopf (UC Santa Barbara)
-
-
-STEERING COMMITTEE:
-
-Ben Hardekopf (UC Santa Barbara)
-Iulian Neamtiu (UC Riverside)
-Stefan Brunthaler (UC Irvine)
-Ranjit Jhala (UC San Diego)
+Todd Millstein and Jens Palsberg
 
 
 PROGRAM COMMITTEE:
 
 Ben Hardekopf (UC Santa Barbara)
-Ben Wiedermann (Harvey Mudd College)
-Stefan Brunthaler (UC Irvine)
-Iulian Neamtiu (UC Riverside)
+Sorin Lerner (UC San Diego)
+Todd Millstein (UC Los Angeles)
+Jens Palsberg (UC Los Angeles)
+Chris Stone (Harvey Mudd College)
 
 WEBSITE:
 
