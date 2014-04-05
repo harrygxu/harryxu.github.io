@@ -1,0 +1,55 @@
+*-------------------------------------------------------------------------*
+|                                                                         |
+|             SoCal Programming Languages and Systems Workshop            |
+|                          Call for Presentations                         |
+|                                                                         |
+|                           http://socalpls.org/                          |
+|                                                                         |
+*-------------------------------------------------------------------------*
+
+
+The SoCal Programming Languages and Systems Workshop will meet at Harvey Mudd
+College in Claremont, CA on Saturday, May 10, 2014.  SoCal is an informal
+gathering of programming languages and systems researchers in the
+southern California region.
+
+The primary goals of this workshop include
+  * Providing a friendly environment for students (and other researchers)
+    to present their work
+  * Strengthening ties between local institutions
+  * Learning about cool stuff happening in PL and systems!
+
+
+SUBMISSION GUIDELINES:
+
+Both original research and work that has been published in other venues
+is welcome.  
+
+Authors should submit abstracts of at most ~300 words to:
+  https://docs.google.com/forms/d/1jzCnZcZA59XmfIKdlWlGk60IS3tjH01BnbLN5S3gVXE/viewform
+The submission deadline is Friday, April 25, 2014, by the end of the day.
+
+Selected abstracts will be presented  as a talk. The program committee will 
+determine the length of the talks based on the number and content of the 
+abstracts we receive; and they'll provide more information when they notify you 
+of acceptance.
+
+IMPORTANT DATES:
+
+April 25    Abstract deadline
+April 28    Notification of acceptance
+  May  1    Registration deadline
+  May 10    SoCal workshop
+
+LOCAL ORGANIZER:
+
+Ben Wiedermann (Harvey Mudd College)
+
+
+PROGRAM COMMITTEE:
+
+TBD!
+
+WEBSITE:
+
+  http://www.socalpls.org/

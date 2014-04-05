@@ -15,14 +15,14 @@ a:link {
 	color: #006666;
 	text-decoration: none;
 	font-weight: bold;
-	border-bottom: 1px dotted #006666;
+	border-bottom: 1px dotted #c63;
 }
 
 a:visited {
 	color: #006666;
 	text-decoration: none;
 	font-weight: bold;
-	border-bottom: 1px dotted #006666;
+	border-bottom: 1px dotted #c63;
 }
 
 /*{
@@ -36,7 +36,7 @@ a:hover {
 	color: #c63;
 	text-decoration: none;
 	font-weight: bold;
-	border-bottom: 1px dotted #c63;
+	border-bottom: 1px dotted #369;
 }
 
 .eyecandy {
