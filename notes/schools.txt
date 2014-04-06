@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+Schools in Southern California with Computer Science Departments
+--------------------------------------------------------------------------------
+
+Wikipedia has a list of schools in Southern California:
+  en.wikipedia.org/wiki/List_of_colleges_and_universities_in_Southern_California
+
+The list below if filtered by those that have computer science departments and,
+additionally, those that house a researcher in PLs or related disciplines.
+Update / use this list occasionally to make sure we're including as many people 
+as possible in SoCal PLs. 
+
+------------------------------
+Schools w/ PLs-related research
+------------------------------
+Cal Poly San Luis Obispo
+Cal State Fullerton
+Harvey Mudd College
+La Sierra University
+Loyola Marymount University, Los Angeles
+Pomona College
+San Diego State University
+UC Irvine
+UC Los Angeles
+UC Riverside
+UC San Diego 
+UC Santa Barbara
+USC
+
+------------------------------
+Schools w/ CS departments
+------------------------------
+Azusa Pacific University
+Biola University
+California Lutheran University
+Cal Poly Pomona
+Cal State Bakersfield
+Cal State Dominguez Hills
+Cal State Los Angeles
+Cal State Long Beach
+Cal State Northridge
+Cal State San Bernardino
+CalTech
+Chapman University
+Claremont McKenna College
+Occidental College
+Pepperdine University
+Point Loma Nazarene University
+UC Merced 
+University of La Verne
+University of Redlands
