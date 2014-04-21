@@ -48,7 +48,11 @@ Ben Wiedermann (Harvey Mudd College)
 
 PROGRAM COMMITTEE:
 
-TBD!
+John Clements  
+Ranjit Jhala   
+Iulian Neamtiu 
+Ben Wiedermann 
+Harry Xu       
 
 WEBSITE:
 
