@@ -1,0 +1,118 @@
+These are the results of a survey from the Spring 2014 version of SoCalPLS. I (
+Ben Wiedermann) asked the following questions and transcribed respondents'
+answers below.
+
+  (1) How often should we have SoCalPLS? How long should it be, each time we
+      have it?
+  (2) Who (else) should come to SoCalPLS?
+  (3) What should we do at SoCalPLS / how should we do it?
+  (4) How much should SoCalPLS cost? Any other comments?
+  
+------------------------------
+How often should we have SoCalPLS? How long should it be, each time we have it?
+------------------------------
+
+Two times a year seems too frequent if we are discussing completed work only.
+Rather, the environment seems appropriate for discussing new, fresh ideas and
+getting external perspectives / thoughts / directions. This would certainly be
+worth taking advantage of.
+
+Once per year
+
+1.5 times per year
+
+Twice a year for one day
+
+One day
+
+Every 6 ~ 9 months
+
+------------------------------
+Who (else) should come to SoCalPLS?
+------------------------------
+
+Why not people from industry (Google Santa Monica, Qualcomm Research)? Why not
+have people (professors) give keynotes to inspire students?
+
+I think that it might be interesting to bring in more people from different
+disciplines and research industry labs.
+
+Many of us at UCSB are collaborating with computer architects, and would be
+interested in cross over. Not just from Architecture but other fields where PL
+could have impact.
+
+Some joint areas with PL like system or hardware.
+
+Welcome more PL people: CalTech and many institutions
+[Note: there's a list of SoCal academic institutions in the SoCalPLS repo. under
+ notes/schools.txt --Ben Wiedermann]
+
+USC, etc.
+
+More institutions, more undergraduates
+
+Industry people. Maybe they can bring sponsorship, too.
+
+Invite everyone. Not all will show up.
+
+------------------------------
+What should we do at SoCalPLS / how should we do it?
+------------------------------
+
+I think talks are important venue to practice presenting material. Don't think
+we should have fewer talks.
+
+Longer tutorials (hands-on) would be cool for more mature projects like maybe
+Liquid Haskell.
+
+Ongoing work may be hard because lots of specialization. Really only very
+initial exploration.
+
+Ongoing work should definitely be part of this workshop -- in fact, I figured it
+already was.
+
+In the past, we've done "lightning talks" -- i particular I think this format
+could be profitably applied to help people with their new ideas, in addition to
+rewording the call for talks to encourage such submissions.
+
+before SoCal: propose topics
+during SoCal: break out into brainstorming sessions
+
+debunking existing work: things we know are wrong in published papers
+
+On-going work are more interesting. I prefer brain
+storm more.
+
+Existing work, ongoing work, and even some novel and random ideas
+
+Would be great to have a day just for ongoing work. Or we could do a poster on
+ongoing work.
+
+Existing work
+
+I like the 12 talks, each 15 minutes format that we had today
+
+A much longer, before-lunch discussion session.
+
+Ongoing work is useful for grad students.
+
+More informal interaction rather than conference style talks.
+
+No one will present ongoing work because they're afraid that their work is
+stolen. Existing work is fine.
+
+------------------------------
+How much should SoCalPLS cost? Any other comments?
+------------------------------
+
+It's great that if we could have a forum / online group discuss different funny
+things. Not only restrict to face-to-face talk.
+
+More meat in lunch (this lunch is good :))
+
+Free would be ideal. Maybe some corporate sponsors, looking to recruit.
+
+The cost should be nominal for students.
+
+Look for sponsorship. It doesn't cost a lot, they would be very happy to support
+us I think.
