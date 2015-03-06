@@ -1,0 +1,204 @@
+/*  Adopted from http://darwinports.opendarwin.org/ */
+
+* {
+	font-family: serif;
+}
+
+body {
+	background: #666666;
+	width: 725px;
+	margin: 15px auto 15px auto;
+	font-size: 16px;
+}
+
+a:link {
+	color: #006666;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px dotted #006666;
+}
+
+a:visited {
+	color: #006666;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px dotted #006666;
+}
+
+/*{
+	color: #888;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px dotted #669;
+} */
+
+a:hover {
+	color: #c63;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px dotted #c63;
+}
+
+.eyecandy {
+	padding-left: 1ex;
+	padding-right: 1ex;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h6 {
+	font-size: 15px;
+}
+
+br {
+	clear: both;
+}
+
+p {
+	margin: 10px 0 1em 0;
+	line-height: 20px;
+}
+
+.pubtitle {
+        font-weight: bold
+}
+
+input, textarea {
+	font-family: Courier, "Courier New", monospace;
+}
+
+kbd {
+	font-family: Courier, "Courier New", monospace;
+}
+
+pre {
+	font-family: Courier, "Courier New", monospace;
+	padding-left: 4ex;
+	border: 1px dashed #2f6fab;
+	color: black;
+	background-color: #f9f9f9;
+	line-height: 1.1em;
+}
+
+.eqns {
+  text-align: center;
+  /*border: dashed;*/
+}
+
+.initrule {
+  border-top: 1px solid black;
+  display: inline;
+  /*background-color: #55dd55;*/
+  padding-left: 1ex;
+  padding-right: 1ex;
+}
+
+.spacer {
+  display: inline;
+  padding-left: 3ex;
+}
+
+.infer {
+  display: inline;
+  /*background-color: #dd5555;*/
+  padding-left: 1ex;
+  padding-right: 1ex;
+  margin: 1ex;
+}
+
+
+.infer-bot {
+  border-bottom: 1px solid black;
+  display: inline;
+  /*background-color: #dd5555;*/
+  padding-left: 1ex;
+  padding-right: 1ex;
+  margin: 1ex;
+}
+
+.infer-top {
+  border-top: 1px solid black;
+  display: inline;
+  /*background-color: #dd5555;*/
+  padding-left: 1ex;
+  padding-right: 1ex;
+  margin: 1ex;
+}
+
+
+.infer-topbot {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: inline;
+  /*background-color: #dd5555;*/
+  padding-left: 1ex;
+  padding-right: 1ex;
+  margin: 1ex;
+}
+
+#main {
+	background: #fff;
+	width: 780px;
+	border-right: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+}
+
+#content {
+	width: 90%;
+	margin: 10px 0 0 0;
+	padding: 20px 40px;
+}
+
+#biopic {
+  float:right;
+  height: 160px;
+  margin: 10px;
+  padding-left: 10px;
+  background: #fff;
+}
+
+.hdr {
+	color: #006666;
+	margin: 0 0 10px 0;
+	padding: 10px 0 0 0;
+	border-bottom: 1px solid #bbb;
+}
+
+.subhdr {
+	color: #879880;
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+
+
+th {
+  /* padding: 6px 6px 6px 12px;  */
+    text-align: left;
+}
+
+
+td {
+  padding-left: 2ex;
+  padding-right: 2ex;
+  /* padding: 6px 6px 6px 12px;  */
+}
