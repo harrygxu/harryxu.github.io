@@ -5,7 +5,8 @@
 }
 
 body {
-	background: #666666;
+	/* background: #666666; */
+	background: #E8EFF0;
 	width: 725px;
 	margin: 15px auto 15px auto;
 	font-size: 16px;
@@ -161,6 +162,9 @@ pre {
 	border-left: 1px solid #bbb;
 	border-top: 1px solid #bbb;
 	border-bottom: 1px solid #bbb;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
 }
 
 #content {
@@ -183,6 +187,7 @@ pre {
 	padding: 10px 0 0 0;
 	border-bottom: 1px solid #bbb;
 }
+
 
 .subhdr {
 	color: #879880;
