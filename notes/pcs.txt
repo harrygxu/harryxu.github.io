@@ -1,0 +1,64 @@
+* 2015 Fall (Pomona)
+** Michael Greenberg
+* 2015 Spring (Chapman)
+** Ben Hardekopf
+** Ranjit Jhala
+** Miryung Kim
+** Adrian Nistor
+** Harry Xu
+* 2014 Fall (UCSD)
+** Sorin Lerner
+** Iulian Neamtiu
+** Adrian Nistor
+** Ben Wiedermann
+* 2014 Spring (HMC)
+** John Clements
+** Ranjit Jhala
+** Iulian Neamtiu
+** Ben Wiedermann
+** Harry Xu
+* 2013 Fall (UCLA)
+** Ben Hardekopf
+** Sorin Lerner
+** Todd Millstein
+** Jens Palsberg
+** Chris Stone
+* 2013 Spring (UCSB)
+** Ben Hardekopf
+** Ben Wiedermann
+** Stefan Brunthaler
+** Iulian Neamtiu
+** Ranjit Jhala
+* 2012 Fall (UCR)
+** Kim Bruce
+** Stefan Brunthaler
+** Rajiv Gupta
+** Robert Keller
+** Iulian Neamtiu
+* 2012 Spring (UCI)
+** Kim Bruce
+** Stefan Brunthaler
+** Ranjit Jhala
+** Robert Keller
+** Jeff Vaughan
+* 2011 Fall (UCSD)
+** Kim Bruce
+** Ranjit Jhala
+** Robert Keller
+** Jeff Vaughan
+* 2011 Spring (HMC)
+** Robert Keller
+** Jeff Vaughan
+** Kim Bruce
+** Jens Palsberg
+* 2010 Fall (UCLA)
+** Kim Bruce
+** Sorin Lerner
+** Jeff Vaughan 
+* 2008 Fall (Pomona)
+** Kim Bruce
+** Chris Stone
+* 2006 Fall (Caltech)
+* 2004 Spring (UCLA)
+** Jens Palsberg
+* 2002 Fall (UC SB)
