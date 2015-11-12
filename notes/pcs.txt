@@ -1,5 +1,9 @@
 * 2015 Fall (Pomona)
+** John Clements
 ** Michael Greenberg
+** Chris Stone
+** Crista Lopes
+** Sorin Lerner
 * 2015 Spring (Chapman)
 ** Ben Hardekopf
 ** Ranjit Jhala
