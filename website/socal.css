@@ -55,3 +55,22 @@ td {
   padding-left: 2ex;
   padding-right: 2ex;
 }
+
+.talk {
+    border: 1px solid #bbb;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    margin-bottom: 2rem;
+}
+
+.talk .title {
+    font-weight: bold;
+
+    font-size: 150%;
+}
+
+.talk .authors {
+    font-style: italic;
+}
