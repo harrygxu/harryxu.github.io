@@ -66,6 +66,12 @@ td {
     padding: 1rem;
 }
 
+.talk .time {
+    float: right;
+    font-style: italic;
+    font-size: 125%;
+}
+
 .talk .title {
     font-weight: bold;
 

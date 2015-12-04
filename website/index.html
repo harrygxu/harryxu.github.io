@@ -20,7 +20,7 @@
 <div id="main" class="container">
   <div class="row">
     <div class="eight columns offset-by-two">
-      <h1 id="title">15th SoCal Programming Languages and Systems</h1>
+      <h1 id="title">15th SoCal PLS: Programming Languages and Systems</h1>
 
       <p>
         The SoCal Programming Languages and Systems Workshop is an
@@ -53,67 +53,28 @@
 
   <div class="row">
     <div class="eight columns offset-by-two">
-      <h4>Program</h4>
+      <h4>Schedule</h4>
 
-      A schedule will come shortly. For now, here is our program.
+      <p>You can read the abstracts in the <a href="program.html">full program</a>.</p>
 
-<div class="talk">
-  <div class="title">OpenMP is Not as Easy as It Appears</div>
-  <div class="authors">Alfredo Goldman - USP (with Rog&eacute;rio Gon&ccedil;alves, Marcos Amaris, Thiago Okada and Pedro Bruel all from USP)</div>
-  <div class="abstract">This paper aims to show that knowing the core concepts related to a given parallel architecture is necessary to write correct code, regardless of the parallel programming paradigm used. Programmers unaware of architecture concepts, such as beginners and students, often write parallel code that is slower than their sequential versions. It is also easy to write code that produces incorrect answers under specific conditions, which are hard to detect and correct. The increasing popularization of multi-core architectures motivates the implementation of parallel programming frameworks and tools, such as OpenMP, that aim to lower the difficulty of parallel programming. OpenMP uses compilation directives, or pragmas, to reduce the number of lines that the programmer needs to write. However, the programmer still has to know when and how to use each of these directives. The documentation and available tutorials for OpenMP give the idea that using compilation directives for parallel programming is easy. In this paper we show that this is not always the case by analysing a set of corrections of OpenMP programs made by students of a graduate course in Parallel and Distributed Computing, at University of S&atilde;o Paulo. Several incorrect examples of OpenMP pragmas were found in tutorials and official documents available in the Internet. The idea that OpenMP is easy to use can lead to superficial efforts in teaching fundamental parallel programming concepts. This can in its turn lead to code that does not develop the full potential of OpenMP, and could also crash inexplicably due to very specific and hard-to-detect conditions. Our main contribution is showing how important it is to teach core architecture and parallel programming concepts properly, even when you have powerful tools such as OpenMP available.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Supporting Reasoning at the Hardware Level</div>
-  <div class="authors">Joseph McMahan, UCSB (with Jared Roesch, U Washington Lawton Nichols, UCSB Tristan Konologie, U Colorado Boulder  Sung-Yee Guo, UCSB Nicholas Brown, UCSB Ben Hardekopf, UCSB Tim Sherwood, UCSB)</div>
-  <div class="abstract">Modern machines are complicated, even in their interface. Previous works have tried to formalize hardware ISAs to aid in verification and reasoning, but the inherently global, imperative, and stateful nature of existing machines severely hamstrings these efforts. We take a different approach: rather than attempting to bridge the gap between proof and machine, we attempt to shrink it with a new hardware architecture that presents a purely functional, lambda calculus-like ISA. We present a working prototype, hardware usage figures, compiler, and initial proofs of correctness of some binary programs, and will touch on future uses and research directions of the machine.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Meta-FRP for livecoding audio</div>
-  <div class="authors">John Clements, Cal Poly</div>
-  <div class="abstract">Functional Reactive Programming provides an interesting programming paradigm.  Applying it to the process of livecoding musical composition results in a novel outlook---the program is the signal, as input to the compiler/runtime system---and also invites a notion of *meta*-FRP---we can reify the time-based program editing process as a meta-program. Indeed, we can take another step, and reify edits to the meta-program as a meta-meta-program.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">The Sourcerer 2011 Dataset</div>
-  <div class="authors">Pedro Martins, UCI (with Cristina V. Lopes, UCI Joel Ossher, UCI)</div>
-  <div class="abstract">We present Sourcerer 2011, a publicly available dataset of software projects written in the Java programming language. This dataset contains over 74,000 open source projects collected from Google Code, SourceForge and Apache, along with over 119,000 jar files found in those projects. The dataset comprises over 630M source lines of code. Because of its large size, processing this many projects is a time-consuming task. As such, one characteristic of this dataset is the provision of three different representations that support different kinds of research work. The different representations correspond to stages of processing in a tool chain, from the downloading of the projects over the Internet to the creation of a relational database of code entities and their relations for open-ended querying. We believe this dataset will help a wide variety of research involving source code analysis, by avoiding many necessary but time-consuming tasks.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Abstractor: Embedding Imperative Programs Into Linear Temporal Logic for Hybrid Systems Reasoning</div>
-  <div class="authors">Mario Alvarez - UCSD (with Gregory Malecha, UCSD Vignesh Gowda, UCSD)</div>
-  <div class="abstract">As part of the VeriDrone hybrid-systems verification project, we need to reason formally about the behavior of physical systems that contain controllers running imperative code. I'll describe how we are able to embed programs (in a mostly language-indepedent way) into the variant of LTL that we used to reason about physical systems, including a sound accounting for floating-point computation errors incurred by the controller. The talk will touch on programming-language semantics, temporal logic, verification, and interval-based floating-point reasoning.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Parallelizing Seemingly-Sequential Computations</div>
-  <div class="authors">Madan Musuvathi, Microsoft Research</div>
-  <div class="abstract">Important applications, such as machine learning and log processing, involve iterating over a large data set with loop-carried dependences across iterations. As such, these computations are not embarrassingly parallel. In this talk, I will describe symbolic parallelism, a general methodology for parallelizing dependent computations. The basic idea is to break dependences using efficient symbolic reasoning.    This work is primarily motivated by the need to extract parallelism from data processing queries that combine standard relational operations (such as map, reduce, filter) with non-relational application-specific code. By applying symbolic parallelism to such code and exposing the resulting parallelism to the underlying query optimizer, we obtain 2-4 orders of magnitude performance improvements over Hadoop and SQL Server.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Data-Driven Precondition Inference with Learned Features</div>
-  <div class="authors">Saswat Padhi (with Todd Millstein (UCLA) Rahul Sharma (Stanford University))</div>
-  <div class="abstract">We present a new black-box approach for likely precondition inference. We infer preconditions for a code snippet by using a form of machine learning over a set of test executions. Like prior data-driven approaches, we employ a feature based learning -- features are boolean predicates over inputs. But prior approaches are limited by a fixed set of features or a fixed structure for the predicates. Our approach overcomes these limitations by employing a generic on-demand feature learning using a program synthesizer, and producing a CNF over features without any predefined structure. We also show that, given access to the source code, and an SMT solver which is able to handle the theories used in the source code, we can infer verified loop invariants. Furthermore, our approach is agnostic to the solver, program synthesizer and boolean function learner used. We have implemented our approach as a tool, PIE (Precondition Inference Engine) and we demonstrate its capabilities by inferring preconditions for OCaml library code and verified invariants for C++ code.</div>
-</div>
-
-
-<div class="talk">
-  <div class="title">Fuzzing for SMT Solvers</div>
-  <div class="authors">Kyle Dewey (UCSB) (with Mehmet Emre (UCSB), Ben Hardekopf (UCSB))</div>
-  <div class="abstract">SMT solvers are vitally important tools which are employed in a variety of domains, including automated testing, synthesis, and verification. While their correctness is often paramount to the task at hand, they are still susceptible to bugs. To help find these bugs before they become problems, we employ black-box language fuzzing techniques in order to to automatically test SMT solvers.  To this end, we instantiate existing general fuzzing techniques specifically for SMT solvers.  In addition, we employ a novel fuzzing technique which generates edge cases that stress corners of a provided language standard.  Another major contribution of this work is an empirical evaluation of the bug-finding effectiveness of fuzzers implemented according to four orthogonal dimensions: syntax-guided versus semantics-guided, unrestricted versus restricted to a subset of an input grammar (i.e. Swarm Testing), random versus bounded depth-first, and the generation of big versus small test cases.  Such an extensive evaluation of different fuzzing approaches has not been performed before, and the community at large is heavily focused on only a small portion of this space.  While this work is still relatively young, we report our experiences with a semantics-guided and unrestricted fuzzer which generates small inputs according to a bounded depth-first search strategy.  Although common wisdom suggests that this point in the fuzzer state space should be relatively uninteresting, this fuzzer alone has already found over a dozen bugs across multiple popular SMT solvers, including Z3, CVC4, MathSAT 5, and Boolector.  More often than not, these bugs have exposed correctness problems with the underlying solver under test, and developers have usually been quick to fix them.</div>
-</div>
-
-    </div>
-  </div>
+      <table class="u-full-width">
+        <tbody>
+          <tr><td>9:00&nbsp;am</td><td><i>Breakfast</i></td></tr>
+          <tr><td>10:00&nbsp;am</td><td>Parallelizing Seemingly-Sequential Computations<br/><i>Madan Musuvathi (MSR)</i></td></tr>
+          <tr><td>10:30&nbsp;am</td><td>OpenMP is Not as Easy as It Appears<br/><i>Alfredo Goldman (USP)</i></td></tr>
+          <tr><td>11:00&nbsp;am </td><td><i>Break</i></td></tr>
+          <tr><td>11:15&nbsp;am</td><td>Data-Driven Precondition Inference with Learned Features<br/><i>Saswat Padhi</i></td></tr>
+          <tr><td>11:45&nbsp;am</td><td>Supporting Reasoning at the Hardware Level<br/><i>Joseph McMahan (UCSB)</i></td></tr>
+          <tr><td>12:15&nbsp;pm</td><td><i>Lunch</i></td></tr>
+          <tr><td>1:30&nbsp;pm</td><td>The Sourcerer 2011 Dataset<br/><i>Pedro Martins (UCI)</i></td></tr>
+          <tr><td>2:00&nbsp;pm</td><td>Abstractor: Embedding Imperative Programs Into Linear Temporal Logic for Hybrid Systems Reasoning<br/><i>Mario Alvarez (UCSD)</i></td></tr>
+          <tr><td>2:30&nbsp;pm</td><td><i>Break</i></td></tr>
+          <tr><td>3:00&nbsp;pm</td><td>Fuzzing for SMT Solvers<br/><i>Kyle Dewey (UCSB)</i></td></tr>
+          <tr><td>3:30&nbsp;pm</td><td>Meta-FRP for livecoding audio<br/><i>John Clements, Cal Poly</i></td></tr>
+          <tr><td>4:00&nbsp;pm</td><td>Discussion/quick ideas<br/><i></i></td></tr>
+          <tr><td>4:30&nbsp;pm</td><td>Business meeting</td></tr>
+        </tbody>
+      </table>     
   
   <div class="row">
     <div class="eight columns offset-by-two">
