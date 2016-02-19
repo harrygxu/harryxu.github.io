@@ -1,0 +1,15 @@
+# Dependencies
+highlighter: rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            SoCal PLS
+description:      'The SoCal Programming Languages and Systems Workshop'
+url:              http://socalpls.github.io/
+baseurl:          /
+
+author:
+  name: 'Saswat Padhi'
+  url: http://saswatpadhi.github.io/

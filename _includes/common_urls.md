@@ -1,0 +1,10 @@
+[caltech]:     https://www.caltech.edu/
+[chapman]:     https://www.chapman.edu/
+[harvey_mudd]: https://www.hmc.edu/
+[pomona]:      http://www.pomona.edu/
+[uci]:         https://uci.edu/
+[ucla]:        https://ucla.edu/
+[ucr]:         https://ucr.edu/
+[ucsb]:        https://ucsb.edu/
+[ucsd]:        https://ucsd.edu/
+[usc]:         http://www.usc.edu/
