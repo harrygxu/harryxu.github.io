@@ -70,7 +70,7 @@ headcount for ordering food and acquiring parking passes.
 
 ## Program Committee
 
-|--------------------------------------------------------|---------|
+|--------------------|---------|
 |[Brian Demsky](http://plrg.eecs.uci.edu/)               | UCI     |
 |[Pedro Diniz](http://www.isi.edu/~pedro/)               | USC/ISI |
 |[Michael Greenberg](http://www.cs.pomona.edu/~michael/) | Pomona  |
