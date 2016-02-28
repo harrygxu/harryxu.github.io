@@ -48,7 +48,7 @@ approaches.
 Both original research and work that has been published in other venues is
 welcome!
 
-Authors should submit abstracts of at most ~300 words via a (forthcoming) Google
+Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/1SfidMAP8eHP8V1gFlninJflKH3Tvj2hNnpz0JB1ZxUY/viewform)) Google
 form. The submission deadline is **Friday, April 8th**, by the end of the day.
 
 Selected abstracts will be presented as a talk or a poster. The program
@@ -70,7 +70,12 @@ headcount for ordering food and acquiring parking passes.
 
 ## Program Committee
 
-[To be decided]
+|--------------------------------------------------------|---------|
+|[Brian Demsky](http://plrg.eecs.uci.edu/)               | UCI     |
+|[Pedro Diniz](http://www.isi.edu/~pedro/)               | USC/ISI |
+|[Michael Greenberg](http://www.cs.pomona.edu/~michael/) | Pomona  |
+|[Ben Hardekopf](http://www.cs.ucsb.edu/~benh/)          | UCSB    |
+|[Todd Millstein](http://web.cs.ucla.edu/~todd/)         | UCLA    |
 
 ---
 
