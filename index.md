@@ -36,7 +36,7 @@ approaches.
 ## Important Dates
 
 |-----------------------|-------------------------------------------|
-| Friday, April 8th     | Abstract submission deadline (end of day) |
+| Saturday, April 9th   | Abstract submission deadline (end of day) |
 | Wednesday, April 13th | Notification of acceptance                |
 | Wednesday, April 20th | Registration deadline                     |
 | Saturday, April 30th  | SoCal PLS Workshop                        |
@@ -49,7 +49,7 @@ Both original research and work that has been published in other venues is
 welcome!
 
 Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/1SfidMAP8eHP8V1gFlninJflKH3Tvj2hNnpz0JB1ZxUY/viewform)) Google
-form. The submission deadline is **Friday, April 8th**, by the end of the day.
+form. The submission deadline is **Saturday, April 9th**, by the end of the day.
 
 Selected abstracts will be presented as a talk or a poster. The program
 committee will determine the length of the talks based on the number and content
