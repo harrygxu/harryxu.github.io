@@ -60,8 +60,7 @@ acceptance.
 
 ## Registration
 
-There will be no registration fee.
-A Google form for registration is forthcoming.
+There will be no registration fee. Please register via ([this form](http://goo.gl/forms/AptCpvr9yE)).
 
 Please register by **Wednesday, April 20th**, so that we can get an accurate
 headcount for ordering food and acquiring parking passes.
