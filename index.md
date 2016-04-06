@@ -14,7 +14,7 @@ This spring, we'll meet at the [University of Southern California][usc] on
 
 ---
 
-## Workshop in 2016
+## Workshop in Spring 2016
 
 The primary goals of this workshop include:
 
