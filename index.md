@@ -36,12 +36,12 @@ approaches.
 | 10:00AM  | Declarative Fence Insertion<br>*John Bender, UCLA*     |
 | 10:30AM  | The Importance of Efficient Fine-Grain Synchronization for Many-Core Systems<br>*Tongsheng Geng, UCI and Alfredo Goldman, USP* |
 | 11:00AM  | Break                                                  |
-| 11:15AM  | Fixing the Java Memory Model with Volatile-by-Default Semantics<br>*Lun Liu, UCLA* |
+| 11:15AM  | Building a Better Undergraduate Compiler Course<br>*Sanjay Madhav, USC* |
 | 11:45AM  | Lunch                                                  |
 | 12:45PM  | Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega<br>*Matt Brown, UCLA* |
 | 1:15PM   | Space-Efficient Latent Contracts<br>*Michael Greenberg, Pomona College* |
 | 1:45PM   | Break                                                  |
-| 2:00PM   | Building a Better Undergraduate Compiler Course<br>*Sanjay Madhav, USC* |
+| 2:00PM   | Fixing the Java Memory Model with Volatile-by-Default Semantics<br>*Lun Liu, UCLA* |
 | 2:30PM   | A First-Principles Approach to Computer Networking<br>*Joe Touch, USC/ISI* |
 | 3:00PM   | Coffee Break                                           |
 | 3:15PM   | Business Meeting/Discussion                            |
