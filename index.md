@@ -28,7 +28,7 @@ The primary goals of this workshop include:
 
 ## Schedule and Local Information
 
-The workshop will be in Ronald Tutor Hall (RTH), room 526. This is on the Western side of campus -- don't get confused by the similarly named Ronald Tutor Campus Center. Be advised that only the North-facing (main) entrance will be unlocked. Once inside, take the elevator to the 5th floor, and 526 is immediately to the left.
+The workshop will be in Ronald Tutor Hall (RTH), room 526. This is on the Western side of campus -- don't get confused by the similarly named Ronald Tutor Campus Center. Be advised that only the doors on the North side of RTH will be unlocked. Once inside, take the elevator to the 5th floor, and 526 is immediately to the left.
 
 ### Driving Directions and Parking
 If you are driving to USC, be advised that due to a March of Dimes event near campus, there will be several street closures near USC. In particular, you should avoid Jefferson, Figueroa, Hoover, and Exposition. Instead, you should approach campus from Vermont. Take the 10 freeway, exit Vermont, and head south until you reach Gate 6, which is at Vermont and 36th Pl.
